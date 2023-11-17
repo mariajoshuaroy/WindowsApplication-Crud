@@ -1,0 +1,7 @@
+D:\Kaashiv\Projects\Windows_Application\Win_Crud\Win_Crud\obj\Debug\Win_Crud.csproj.AssemblyReference.cache
+D:\Kaashiv\Projects\Windows_Application\Win_Crud\Win_Crud\obj\Debug\Win_Crud.Crud.resources
+D:\Kaashiv\Projects\Windows_Application\Win_Crud\Win_Crud\obj\Debug\Win_Crud.Login.resources
+D:\Kaashiv\Projects\Windows_Application\Win_Crud\Win_Crud\obj\Debug\Win_Crud.Properties.Resources.resources
+D:\Kaashiv\Projects\Windows_Application\Win_Crud\Win_Crud\obj\Debug\Win_Crud.Register.resources
+D:\Kaashiv\Projects\Windows_Application\Win_Crud\Win_Crud\obj\Debug\Win_Crud.csproj.GenerateResource.cache
+D:\Kaashiv\Projects\Windows_Application\Win_Crud\Win_Crud\obj\Debug\Win_Crud.csproj.CoreCompileInputs.cache
